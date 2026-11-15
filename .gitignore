@@ -6,6 +6,7 @@ __pycache__/
 *.aux
 *.log
 !lean/build.log
+!lean/build_full.log
 *.out
 !tight_tile/out*/*.out
 !verification/**/*.out

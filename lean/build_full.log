@@ -1,0 +1,19 @@
+# Full build log of lean/K2m5 (the files of release v1.1), 14 Nov 2026
+# Lean 4.33.1 (leanprover/lean4:v4.33.1), Linux x86_64, 2 cores, 7 GB RAM, no swap; Daniel's project and Mathlib
+# (evand/square-packing@659ee62) were already built and on LEAN_PATH, their build time is not included.
+# Grid10 ran first from a cold disk cache, so its wall time is dominated by loading Mathlib (cpu 15.9 s).
+# Peak RSS is the largest resident size of the lean process; it includes the memory-mapped Mathlib .olean files.
+== K2m5.Grid10: exit 0; wall 351.1 s; cpu 15.9 s; peak RSS 5.68 GB; errors 0
+== K2m5.Fam10: exit 0; wall 27.9 s; cpu 42.7 s; peak RSS 5.86 GB; errors 0
+== K2m5.InstData: exit 0; wall 93.2 s; cpu 115.3 s; peak RSS 3.25 GB; errors 0
+== K2m5.InstFam: exit 0; wall 14.2 s; cpu 10.0 s; peak RSS 5.87 GB; errors 0
+== K2m5.InstC1: exit 0; wall 58.3 s; cpu 56.3 s; peak RSS 5.93 GB; errors 0
+== K2m5.InstC2: exit 0; wall 54.2 s; cpu 46.4 s; peak RSS 5.74 GB; errors 0
+== K2m5.InstC3: exit 0; wall 72.8 s; cpu 66.2 s; peak RSS 5.95 GB; errors 0
+== K2m5.InstC4: exit 0; wall 41.1 s; cpu 33.2 s; peak RSS 5.76 GB; errors 0
+== K2m5.InstC5: exit 0; wall 11.8 s; cpu 8.4 s; peak RSS 5.76 GB; errors 0
+== K2m5.InstC6: exit 0; wall 67.2 s; cpu 64.9 s; peak RSS 5.96 GB; errors 0
+== K2m5.InstC7: exit 0; wall 44.7 s; cpu 35.5 s; peak RSS 5.78 GB; errors 0
+== K2m5.Inst: exit 0; wall 20.7 s; cpu 17.1 s; peak RSS 5.83 GB; errors 0
+'SquarePacking.K2m5Inst.k2m5_of_valid11' depends on axioms: [propext, Classical.choice, Quot.sound]
+# totals: wall 863.6 s (14.4 min; about 9 min without the cold-cache load of Grid10), cpu 517.5 s (8.6 min); peak RSS 5.96 GB

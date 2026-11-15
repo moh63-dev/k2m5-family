@@ -22,3 +22,12 @@ Build (as we did): compile Daniel's Lean project at evand/square-packing@659ee62
 `leanprover/lean4:v4.33.1` and its Mathlib), put its build output on `LEAN_PATH`, and compile the modules of
 `K2m5/` with `lean -o` one per process in this order: `Grid10 Fam10 InstData InstFam InstC1 … InstC7 Inst`. `build.log`
 records our build of 12 November 2026.
+
+## Rebuilding with timings
+
+`build_inst.sh` builds the 12 modules one per process and writes `build_full.log` with each module's wall time, CPU time
+and peak memory (`timed_build.py` does one module). Set `K2M5_DIR` (the folder holding `K2m5/*.lean`), `LEAN_BIN` (the
+`lean` executable) and `LEAN_PATH_EXTRA` (the Mathlib and project library folders, `:`-separated), then run
+`bash build_inst.sh`. `build_full.log` in this folder is our run of 14 November 2026 (Lean 4.33.1, Linux, 2 cores, 7 GB
+RAM, no swap): 14 minutes wall, 8.6 CPU-minutes, peak about 6 GB. Daniel's project and Mathlib must already be built;
+their build time is not included.
