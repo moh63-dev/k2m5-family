@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper and this archive."
+title: "k2m5-family: certificates, checkers, Lean proof and paper for s(k^2-5)=k, k>=7"
+type: software
+version: "1.1"
+date-released: "2026-11-14"
+license: MIT
+repository-code: "https://github.com/moh63-dev/k2m5-family"
+authors:
+  - family-names: Khalili
+    given-names: Mohsen
+  - family-names: Gharabaghi
+    given-names: Sara
+abstract: "We prove s(k^2-5)=k for every integer k>=7, where s(n) is the side of the smallest square that contains n unit squares with disjoint interiors, rotations allowed. The cases k=7,8,9 are known certificates; for all k>=10 one family of weighted measures on [0,k]^2 (corner module, periodic wall pattern, Lebesgue middle; total mass k^2-4D with D=1.3405...>5/4) is shown valid by reducing, through a locality lemma, to a single 11x11 board, which is checked with Daniel's interval checker zmx2 and a new Tight-Tile Lemma. This archive holds the certificate, the checkers, the Lean reduction, the Tight-Tile checker and its outputs, and the paper."
+keywords:
+  - square packing
+  - unit squares
+  - weighted cover
+  - interval arithmetic
+  - Lean 4

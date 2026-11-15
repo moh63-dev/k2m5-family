@@ -9,7 +9,7 @@ Board: `certificate/sol_exact_box11.txt`, sha256 `d259fed5c9d5eb02c6fed85f5d1070
 | 2 | the board file is μ₁₁ of the family | `lean/K2m5/scripts/gen_fam10_data.py` (Python mirror) and the Lean kernel (`box11Cover_measure`) | exact / kernel | OK |
 | 3 | μ_k is D4-invariant | `sanity_k2m5.py` (k = 11); `zmx2 d4` (k = 10, 12, 13, 20) | exact | OK |
 | 4 | locality: k ≥ 10 reduces to k = 11 | paper Lemma 7 (proof by hand); Lean `k2m5_of_valid11`; `locality_check.py` (ours) on k = 10, 12, 13, 20, which also catches a one-weight mutation of μ₁₂ (176 bad windows) | proof / kernel / exact | OK |
-| 5 | untilted squares (θ = 0) | Lemma Z at 10,000 limit corners (exact, min exactly 1); our axis check at 7,717 corners (exact, min exactly 1); `zmx2 cert0` on 2,500 roots | exact / interval | OK |
+| 5 | untilted squares (θ = 0) | `verification/axis_exact.py` at 10,000 limit corners (exact, min exactly 1, at 750; refuses the scaled controls); Lemma Z at the same corners (same minimum; not in the release); `zmx2 cert0` on 2,500 roots | exact / interval | OK |
 | 6 | tilted squares, general position | `zmx2 cert --d4 --first-order --depth 40 --node-cap 2e7`, 55 columns, 12,100 roots; `audit_zmx2.py` | interval (outward-rounded binary64, exact integer masses) | 12,024 roots certified; 76 left |
 | 7 | root 9632 | its 6,850 zmx2-uncertified boxes lie in one `qx2_zm.py` root (depth 18), which leaves 83 boxes, none meeting them; `check_9632.py` | exact | closed |
 | 8 | the 75 tight-tile roots | Tight-Tile Lemma (`tight_tile/`): 308 jobs at u₀ = 1/4000 + 15 at 1/2000, every chart and corner zone certified; `cov_check.py`: all 1,255,023 zmx2 leftover boxes inside the certified region | exact + outward-rounded intervals | COVERAGE-OK |
@@ -21,7 +21,7 @@ Board: `certificate/sol_exact_box11.txt`, sha256 `d259fed5c9d5eb02c6fed85f5d1070
 |---|---|---|---|
 | `zmx2`, root (15, 36), depth 24 | 0 uncertified | every segment weight × 0.999 / × 0.993 | 209 / 217 uncertified: refused |
 | `qx2_zm.py`, root-9632 window | 83 uncertified, none meeting zmx2's leftovers (closed) | every segment weight × 0.999 | 87 uncertified, 3 of them meeting zmx2's leftovers: `check_9632.py` says NOT-CLOSED (refused) |
-| Tight-Tile checker | certified | weights × 0.99; line x = 2 −1%; one segment moved (same limit values, smaller first-order growth: a true violation, mass 1 − 1.34·10⁻⁷) | refused (1,190 refused cells in the last) |
+| Tight-Tile checker | certified | weights × 0.99; line x = 2 −1%; one segment moved (same limit values, smaller first-order growth: a true violation, mass 1 − 1.34·10⁻⁷) | refused (1,190 refused cells in the last, with the run stopped at a cap of 6,000 cells; the count depends on the cap) |
 | `locality_check.py` | OK | one weight of μ₁₂ changed | 176 windows fail: refused |
 
 ## Independent review

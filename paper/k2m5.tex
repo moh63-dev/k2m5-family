@@ -26,7 +26,7 @@
 \email{mkhalili63@yahoo.com}
 \author{Sara Gharabaghi}
 \address{Independent researcher}
-\date{Draft, November 13, 2026}
+\date{November 14, 2026}
 
 \begin{document}
 \begin{abstract}
@@ -49,9 +49,10 @@ interval-certified derivative bounds, and this bound is checked at the cell's ve
 Write $s(n)$ for the side of the smallest square containing $n$ unit squares with pairwise disjoint interiors,
 each free to rotate. Since $s(k^2)=k$ and $s$ is nondecreasing, $s(n)\le k$ for $(k-1)^2<n\le k^2$, and one asks how
 many squares can be removed from the $k\times k$ grid before a smaller container suffices. Friedman's
-survey~\cite{friedman} records the history. Nagamochi~\cite{nagamochi} studied $s(k^2-1)$ and $s(k^2-2)$;
-Karaku\c{s}~\cite{karakus} later gave a complete proof of $s(k^2-1)=k$, filling a gap in the argument for
-Nagamochi's Lemma~1. The family $s(k^2-3)=k$ is due to Kearney and Shiu for $k=3$~\cite{kearney}, Bentz for
+survey~\cite{friedman} records the history. Nagamochi~\cite{nagamochi} studied $s(k^2-1)$ and $s(k^2-2)$ through a rectangle bound.
+Karaku\c{s}~\cite{karakus} later exhibited a counterexample, local to a corner, to the scoring step in Nagamochi's
+Lemma~1, so the published proof is incomplete (the bound itself is not disproved), and gave an independent proof,
+by a weaker strip measure, of $s(k^2-1)=k$ for all $k\ge2$; his argument does not establish $s(k^2-2)=k$. The family $s(k^2-3)=k$ is due to Kearney and Shiu for $k=3$~\cite{kearney}, Bentz for
 $4\le k\le7$~\cite{bentz,bentz2}, and Daniel for all $k\ge6$~\cite{daniel}; since $s$ is nondecreasing, it also gives
 $s(k^2-2)=k$ for $k\ge3$. Daniel also proved $s(k^2-4)=k$ for all $k\ge5$ by computer-assisted weighted covers (the
 case $k=9$ was first proved by Hosono; see the record in~\cite{daniel}). Ryu's preprint~\cite{ryu} shows that for
@@ -184,8 +185,12 @@ $R\le x\le k-R$; the other three are its images under the symmetries of $[0,k]^2
 \end{itemize}
 \end{definition}
 
-Since every segment has its endpoints on the grid $\frac1{10}\Z^2$ and the lines $x=R$, $x=k-R$ are grid lines, no
-segment crosses them, so ``the segments that lie in the strip'' is unambiguous. By construction, and because $\omega$
+Every segment of $\nu$ and of $\omega$ is an \emph{elementary} piece of the $\frac1{10}$ grid: it is axis-parallel and
+joins two adjacent points of $\frac1{10}\Z^2$, so it has length $\frac1{10}$ (checked on the data file: all $13{,}244$
+segments of $\mu_{11}$ have this form). Grid endpoints alone would not suffice, since a segment from $3.9$ to $4.1$ has
+them; but an elementary piece cannot cross a grid line, and $x=R$, $x=k-R$ (and $y=R$, $y=k-R$) are grid lines. So
+no segment crosses them, ``the segments that lie in the strip'' is unambiguous, and in the proof of
+Lemma~\ref{lem:local} a segment of $\omega$ that meets the open strip $R<x<k-R$ lies in $R\le x\le k-R$. By construction, and because $\omega$
 is symmetric, $\mu_k$ is invariant under the eight symmetries of $[0,k]^2$; for $k=10,\dots,13$ and $k=20$ this was
 also checked in exact arithmetic on the built measures. (The family file records, in its header, the part of $U_k$
 that lies in the wall and corner strips as belonging to those pieces; this is bookkeeping and gives the same
@@ -199,7 +204,7 @@ $U_{11}=[19/5,36/5]^2$.
 Figure~\ref{fig:board} shows the actual measure $\mu_{11}$.
 
 \begin{figure}[ht]
-\centering\includegraphics[width=\textwidth]{figures/board.pdf}
+\centering\includegraphics[width=0.8\textwidth]{figures/board.pdf}
 \caption{The measure $\mu_{11}$: every segment drawn in a colour given by its mass per unit length (segments lighter
 than $10^{-3}$ per unit length are omitted); grey is Lebesgue measure on $U_{11}$. Right: the corner $[0,5.5]^2$; the
 dotted red lines are $x=R$ and $y=R$, where the corner module meets the wall bands.}
@@ -332,12 +337,14 @@ these symmetries act on poses. So it suffices to treat poses with center in $[0,
 $u\in[0,\tan\frac\pi8]$. We split this set into four parts.
 
 \begin{enumerate}
-\item \textbf{Untilted poses, $u=0$.} The mass of an axis-parallel pose is a piecewise-affine function of its
-center whose minimum is attained at finitely many limit points; Daniel's ``Lemma~Z''~\cite{daniel} reduces the check
-to these points. Three checks agree that every untilted pose has mass $\ge1$: Lemma~Z at $10{,}000$ one-sided limit
-corners in exact arithmetic (minimum exactly $1$, attained at $750$ of them); an independent exact evaluation at
-$7{,}717$ corners (minimum exactly $1$); and \texttt{zmx2} in untilted mode on all $2{,}500$ root boxes (all
-certified).
+\item \textbf{Untilted poses, $u=0$.} The mass of an axis-parallel pose is a piecewise-bilinear function of its
+center (the Lebesgue term is a product of two interval overlaps) whose minimum is attained at finitely many limit points; Daniel's ``Lemma~Z''~\cite{daniel} reduces the check
+to these points. Three checks agree that every untilted pose has mass $\ge1$: our program \texttt{axis\_exact.py}, which evaluates in exact
+integer arithmetic the bilinear mass function of every $\frac1{10}$-cell of centers at its four limit corners
+($10{,}000$ corners; the mass of a closed square is upper semicontinuous in its center, so these limit values bound the
+mass at every center; minimum exactly $1$, attained at $750$ of them) and refuses the scaled controls; Lemma~Z at the
+same $10{,}000$ corners (the same minimum; this run is not part of the release); and \texttt{zmx2} in untilted mode on
+all $2{,}500$ root boxes (all certified).
 \item \textbf{Tilted poses, general position.} \texttt{zmx2} in first-order mode with depth cap $40$ certifies
 $12{,}024$ of the $12{,}100$ root boxes. $76$ root boxes remain.
 \item \textbf{Root box $9632$.} One remaining root box lies at a corner of $U_{11}$, away from the walls. Its
@@ -755,7 +762,7 @@ DOI \href{https://doi.org/10.5281/zenodo.23769766}{10.5281/zenodo.23769766}.
 \bibitem{squares} J.~Levy et al., The Squares Project, \url{https://squaremath.org/results.html}.
 \bibitem{ttproof} M.~Khalili and S.~Gharabaghi, The Tight-Tile Lemma for the $k^2-5$ family: statement and proof,
 technical report, in~\cite{repo}.
-\bibitem{repo} M.~Khalili and S.~Gharabaghi, k2m5-family (2026). \todo{public repository and archive once
-released.}
+\bibitem{repo} M.~Khalili and S.~Gharabaghi, k2m5-family: certificates, checkers, Lean proof and paper for
+$s(k^2-5)=k$, \url{https://github.com/moh63-dev/k2m5-family}, release v1.1 (November 2026).
 \end{thebibliography}
 \end{document}

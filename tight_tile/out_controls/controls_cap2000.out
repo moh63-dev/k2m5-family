@@ -1,0 +1,50 @@
+../certificate/sol_exact_box11.txt {'ok': 85, 'cells': 169, 'fails': 0, 'segs': 347, 'splits': {'face': 15, 'kink': 3, 'bis': 66, 'hbis': 0}}
+refused cells 0 ; of which containing the face point (1, 1): 0
+   cells 200 ok 38 todo 81 fails 22 {'face': 8, 'kink': 56, 'bis': 75, 'hbis': 0}
+   cells 400 ok 100 todo 81 fails 60 {'face': 8, 'kink': 119, 'bis': 112, 'hbis': 0}
+   cells 600 ok 163 todo 81 fails 97 {'face': 8, 'kink': 181, 'bis': 150, 'hbis': 0}
+   cells 800 ok 225 todo 81 fails 135 {'face': 8, 'kink': 244, 'bis': 187, 'hbis': 0}
+   cells 1000 ok 287 todo 81 fails 173 {'face': 8, 'kink': 307, 'bis': 224, 'hbis': 0}
+   cells 1200 ok 350 todo 81 fails 210 {'face': 8, 'kink': 369, 'bis': 262, 'hbis': 0}
+   cells 1400 ok 412 todo 81 fails 248 {'face': 8, 'kink': 432, 'bis': 299, 'hbis': 0}
+   cells 1600 ok 475 todo 79 fails 286 {'face': 8, 'kink': 494, 'bis': 336, 'hbis': 0}
+   cells 1800 ok 538 todo 81 fails 322 {'face': 8, 'kink': 556, 'bis': 375, 'hbis': 0}
+   cells 2000 ok 600 todo 81 fails 360 {'face': 8, 'kink': 619, 'bis': 412, 'hbis': 0}
+ctl_rise.txt {'ok': 600, 'cells': 2083, 'fails': 443, 'segs': 347, 'splits': {'face': 8, 'kink': 620, 'bis': 412, 'hbis': 0}}
+refused cells 443 ; of which containing the face point (1, 1): 6
+  FAIL [(1.0, 0.9997495540562541), (1.0, 0.9997495545624687), (0.999999999254942, 0.9997495545624687), (0.999999999254942, 0.9997495540562541)] bound
+  FAIL [(1.0, 0.9997495535500394), (1.0, 0.9997495540562541), (0.999999999254942, 0.9997495540562541), (0.999999999254942, 0.9997495535500394)] bound
+  FAIL [(0.999999999254942, 0.9997495545624687), (0.9999999985098839, 0.9997495545624687), (0.9999999985098839, 0.9997495540562541), (0.999999999254942, 0.9997495540562541)] bound
+  FAIL [(0.9999999985098839, 0.9997495540562541), (0.9999999985098839, 0.9997495535500394), (0.999999999254942, 0.9997495535500394), (0.999999999254942, 0.9997495540562541)] bound
+   cells 200 ok 0 todo 55 fails 72 {'face': 4, 'kink': 23, 'bis': 100, 'hbis': 0}
+   cells 400 ok 0 todo 55 fails 172 {'face': 4, 'kink': 50, 'bis': 173, 'hbis': 0}
+   cells 600 ok 0 todo 55 fails 272 {'face': 4, 'kink': 77, 'bis': 246, 'hbis': 0}
+   cells 800 ok 0 todo 53 fails 373 {'face': 4, 'kink': 87, 'bis': 335, 'hbis': 0}
+   cells 1000 ok 0 todo 55 fails 472 {'face': 4, 'kink': 112, 'bis': 411, 'hbis': 0}
+   cells 1200 ok 0 todo 55 fails 572 {'face': 4, 'kink': 140, 'bis': 483, 'hbis': 0}
+   cells 1400 ok 0 todo 55 fails 672 {'face': 4, 'kink': 167, 'bis': 556, 'hbis': 0}
+   cells 1600 ok 0 todo 57 fails 771 {'face': 4, 'kink': 174, 'bis': 650, 'hbis': 0}
+   cells 1800 ok 0 todo 55 fails 872 {'face': 4, 'kink': 203, 'bis': 720, 'hbis': 0}
+   cells 2000 ok 0 todo 55 fails 972 {'face': 4, 'kink': 232, 'bis': 791, 'hbis': 0}
+out_controls/mut_all099.txt {'ok': 0, 'cells': 2057, 'fails': 1029, 'segs': 347, 'splits': {'face': 4, 'kink': 232, 'bis': 792, 'hbis': 0}}
+refused cells 1029 ; of which containing the face point (1, 1): 2
+  FAIL [(0.8, 0.7999999992549419), (0.8, 0.8), (0.7999999992549419, 0.8), (0.7999999992549419, 0.7999999992549419)] bound
+  FAIL [(0.8, 0.7999999985098839), (0.8, 0.7999999992549419), (0.7999999992549419, 0.7999999992549419), (0.7999999992549419, 0.7999999985098839)] bound
+  FAIL [(0.8, 0.7999999985098839), (0.8, 0.7999999992549419), (0.7999999992549419, 0.7999999992549419), (0.7999999992549419, 0.7999999985098839)] bound
+  FAIL [(0.7999999992549419, 0.8), (0.7999999985098839, 0.8), (0.7999999985098839, 0.7999999992549419), (0.7999999992549419, 0.7999999992549419)] bound
+   cells 200 ok 4 todo 81 fails 56 {'face': 8, 'kink': 45, 'bis': 86, 'hbis': 0}
+   cells 400 ok 4 todo 77 fails 158 {'face': 8, 'kink': 71, 'bis': 158, 'hbis': 0}
+   cells 600 ok 4 todo 81 fails 256 {'face': 8, 'kink': 108, 'bis': 223, 'hbis': 0}
+   cells 800 ok 4 todo 77 fails 358 {'face': 8, 'kink': 124, 'bis': 305, 'hbis': 0}
+   cells 1000 ok 4 todo 79 fails 457 {'face': 8, 'kink': 145, 'bis': 385, 'hbis': 0}
+   cells 1200 ok 4 todo 77 fails 558 {'face': 8, 'kink': 177, 'bis': 452, 'hbis': 0}
+   cells 1400 ok 4 todo 81 fails 656 {'face': 8, 'kink': 206, 'bis': 525, 'hbis': 0}
+   cells 1600 ok 4 todo 75 fails 759 {'face': 8, 'kink': 230, 'bis': 598, 'hbis': 0}
+   cells 1800 ok 4 todo 81 fails 856 {'face': 8, 'kink': 245, 'bis': 686, 'hbis': 0}
+   cells 2000 ok 4 todo 81 fails 956 {'face': 8, 'kink': 281, 'bis': 750, 'hbis': 0}
+out_controls/mut_x2_099.txt {'ok': 4, 'cells': 2081, 'fails': 1038, 'segs': 347, 'splits': {'face': 8, 'kink': 281, 'bis': 750, 'hbis': 0}}
+refused cells 1038 ; of which containing the face point (1, 1): 6
+  FAIL [(1.0, 0.9997495540562541), (1.0, 0.9997495545624687), (0.999999999254942, 0.9997495545624687), (0.999999999254942, 0.9997495540562541)] bound
+  FAIL [(1.0, 0.9997495540562541), (1.0, 0.9997495545624687), (0.999999999254942, 0.9997495545624687), (0.999999999254942, 0.9997495540562541)] bound
+  FAIL [(1.0, 0.9997495535500394), (1.0, 0.9997495540562541), (0.999999999254942, 0.9997495540562541), (0.999999999254942, 0.9997495535500394)] bound
+  FAIL [(1.0, 0.9997495535500394), (1.0, 0.9997495540562541), (0.999999999254942, 0.9997495540562541), (0.999999999254942, 0.9997495535500394)] bound

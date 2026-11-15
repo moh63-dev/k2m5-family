@@ -1,0 +1,261 @@
+# zmx2 cert hash=a53f06f25d54b3df mode=d4 atoms=grid+fo depth=40 node_cap=20000000 kappa=1.5 K=30 region=x38-38,y0-54,bins0-3 area=1
+ROOT 8360 pass 0 root 38/10,39/10,0/10,1/10,0/8,1/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8361 pass 0 root 38/10,39/10,0/10,1/10,1/8,2/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8362 pass 0 root 38/10,39/10,0/10,1/10,2/8,3/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8363 pass 0 root 38/10,39/10,0/10,1/10,3/8,4/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8364 pass 0 root 38/10,39/10,1/10,2/10,0/8,1/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8365 pass 0 root 38/10,39/10,1/10,2/10,1/8,2/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8366 pass 0 root 38/10,39/10,1/10,2/10,2/8,3/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8367 pass 0 root 38/10,39/10,1/10,2/10,3/8,4/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8368 pass 0 root 38/10,39/10,2/10,3/10,0/8,1/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8369 pass 0 root 38/10,39/10,2/10,3/10,1/8,2/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8370 pass 0 root 38/10,39/10,2/10,3/10,2/8,3/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8371 pass 0 root 38/10,39/10,2/10,3/10,3/8,4/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8372 pass 0 root 38/10,39/10,3/10,4/10,0/8,1/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8373 pass 0 root 38/10,39/10,3/10,4/10,1/8,2/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8374 pass 0 root 38/10,39/10,3/10,4/10,2/8,3/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8375 pass 0 root 38/10,39/10,3/10,4/10,3/8,4/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8376 pass 0 root 38/10,39/10,4/10,5/10,0/8,1/8 boxes 33 cert 4 empty 13 uncert 0 maxdepth 7 capped 0 ms 9
+ROOT 8377 pass 0 root 38/10,39/10,4/10,5/10,1/8,2/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8378 pass 0 root 38/10,39/10,4/10,5/10,2/8,3/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8379 pass 0 root 38/10,39/10,4/10,5/10,3/8,4/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8380 pass 0 root 38/10,39/10,5/10,6/10,0/8,1/8 boxes 14859 cert 4786 empty 2644 uncert 0 maxdepth 23 capped 0 ms 2773
+ROOT 8381 pass 0 root 38/10,39/10,5/10,6/10,1/8,2/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8382 pass 0 root 38/10,39/10,5/10,6/10,2/8,3/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8383 pass 0 root 38/10,39/10,5/10,6/10,3/8,4/8 boxes 1 cert 0 empty 1 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8384 pass 0 root 38/10,39/10,6/10,7/10,0/8,1/8 boxes 563 cert 228 empty 54 uncert 0 maxdepth 18 capped 0 ms 34
+ROOT 8385 pass 0 root 38/10,39/10,6/10,7/10,1/8,2/8 boxes 1333 cert 468 empty 199 uncert 0 maxdepth 17 capped 0 ms 75
+ROOT 8386 pass 0 root 38/10,39/10,6/10,7/10,2/8,3/8 boxes 87 cert 21 empty 23 uncert 0 maxdepth 9 capped 0 ms 4
+ROOT 8387 pass 0 root 38/10,39/10,6/10,7/10,3/8,4/8 boxes 267 cert 38 empty 96 uncert 0 maxdepth 18 capped 0 ms 13
+ROOT 8388 pass 0 root 38/10,39/10,7/10,8/10,0/8,1/8 boxes 5 cert 3 empty 0 uncert 0 maxdepth 2 capped 0 ms 2
+ROOT 8389 pass 0 root 38/10,39/10,7/10,8/10,1/8,2/8 boxes 5 cert 3 empty 0 uncert 0 maxdepth 2 capped 0 ms 0
+ROOT 8390 pass 0 root 38/10,39/10,7/10,8/10,2/8,3/8 boxes 47 cert 24 empty 0 uncert 0 maxdepth 11 capped 0 ms 3
+ROOT 8391 pass 0 root 38/10,39/10,7/10,8/10,3/8,4/8 boxes 1789 cert 692 empty 203 uncert 0 maxdepth 21 capped 0 ms 105
+ROOT 8392 pass 0 root 38/10,39/10,8/10,9/10,0/8,1/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8393 pass 0 root 38/10,39/10,8/10,9/10,1/8,2/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8394 pass 0 root 38/10,39/10,8/10,9/10,2/8,3/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8395 pass 0 root 38/10,39/10,8/10,9/10,3/8,4/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8396 pass 0 root 38/10,39/10,9/10,10/10,0/8,1/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8397 pass 0 root 38/10,39/10,9/10,10/10,1/8,2/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8398 pass 0 root 38/10,39/10,9/10,10/10,2/8,3/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8399 pass 0 root 38/10,39/10,9/10,10/10,3/8,4/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8400 pass 0 root 38/10,39/10,10/10,11/10,0/8,1/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8401 pass 0 root 38/10,39/10,10/10,11/10,1/8,2/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8402 pass 0 root 38/10,39/10,10/10,11/10,2/8,3/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8403 pass 0 root 38/10,39/10,10/10,11/10,3/8,4/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8404 pass 0 root 38/10,39/10,11/10,12/10,0/8,1/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8405 pass 0 root 38/10,39/10,11/10,12/10,1/8,2/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8406 pass 0 root 38/10,39/10,11/10,12/10,2/8,3/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8407 pass 0 root 38/10,39/10,11/10,12/10,3/8,4/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8408 pass 0 root 38/10,39/10,12/10,13/10,0/8,1/8 boxes 1 cert 1 empty 0 uncert 0 maxdepth 0 capped 0 ms 0
+ROOT 8409 pass 0 root 38/10,39/10,12/10,13/10,1/8,2/8 boxes 5 cert 3 empty 0 uncert 0 maxdepth 2 capped 0 ms 0
+ROOT 8410 pass 0 root 38/10,39/10,12/10,13/10,2/8,3/8 boxes 9 cert 5 empty 0 uncert 0 maxdepth 3 capped 0 ms 0
+ROOT 8411 pass 0 root 38/10,39/10,12/10,13/10,3/8,4/8 boxes 7 cert 4 empty 0 uncert 0 maxdepth 2 capped 0 ms 0
+ROOT 8412 pass 0 root 38/10,39/10,13/10,14/10,0/8,1/8 boxes 9 cert 5 empty 0 uncert 0 maxdepth 3 capped 0 ms 9
+ROOT 8413 pass 0 root 38/10,39/10,13/10,14/10,1/8,2/8 boxes 45 cert 23 empty 0 uncert 0 maxdepth 6 capped 0 ms 3
+ROOT 8414 pass 0 root 38/10,39/10,13/10,14/10,2/8,3/8 boxes 79 cert 40 empty 0 uncert 0 maxdepth 8 capped 0 ms 5
+ROOT 8415 pass 0 root 38/10,39/10,13/10,14/10,3/8,4/8 boxes 41 cert 21 empty 0 uncert 0 maxdepth 7 capped 0 ms 2
+ROOT 8416 pass 0 root 38/10,39/10,14/10,15/10,0/8,1/8 boxes 32309 cert 16155 empty 0 uncert 0 maxdepth 25 capped 0 ms 13850
+ROOT 8417 pass 0 root 38/10,39/10,14/10,15/10,1/8,2/8 boxes 68865 cert 34433 empty 0 uncert 0 maxdepth 26 capped 0 ms 4722
+ROOT 8418 pass 0 root 38/10,39/10,14/10,15/10,2/8,3/8 boxes 3181 cert 1591 empty 0 uncert 0 maxdepth 15 capped 0 ms 220
+ROOT 8419 pass 0 root 38/10,39/10,14/10,15/10,3/8,4/8 boxes 331 cert 166 empty 0 uncert 0 maxdepth 12 capped 0 ms 23
+UNCERT 8420 pass 0 box 319479/81920,319480/81920,122883/81920,122884/81920,15/131072,16/131072 | x[3.8998901,3.8999023] y[1.5000366,1.5000488] u[0.00011444,0.00012207] (th 0.0131-0.0140 deg) | float-min 1.000018 at (3.899902,1.500049,u 0.0001221)
+UNCERT 8420 pass 0 box 319479/81920,319480/81920,122884/81920,122885/81920,15/131072,16/131072 | x[3.8998901,3.8999023] y[1.5000488,1.5000610] u[0.00011444,0.00012207] (th 0.0131-0.0140 deg) | float-min 1.000015 at (3.899902,1.500061,u 0.0001221)
+UNCERT 8420 pass 0 box 319479/81920,319480/81920,122885/81920,122886/81920,15/131072,16/131072 | x[3.8998901,3.8999023] y[1.5000610,1.5000732] u[0.00011444,0.00012207] (th 0.0131-0.0140 deg) | float-min 1.000014 at (3.899902,1.500067,u 0.0001221)
+UNCERT 8420 pass 0 box 319483/81920,319484/81920,122881/81920,122882/81920,7/131072,8/131072 | x[3.8999390,3.8999512] y[1.5000122,1.5000244] u[0.00005341,0.00006104] (th 0.0061-0.0070 deg) | float-min 1.000009 at (3.899951,1.500024,u 0.0000610)
+UNCERT 8420 pass 0 box 319483/81920,319484/81920,122882/81920,122883/81920,7/131072,8/131072 | x[3.8999390,3.8999512] y[1.5000244,1.5000366] u[0.00005341,0.00006104] (th 0.0061-0.0070 deg) | float-min 1.000007 at (3.899951,1.500031,u 0.0000610)
+UNCERT 8420 pass 0 box 319483/81920,319484/81920,122883/81920,122884/81920,7/131072,8/131072 | x[3.8999390,3.8999512] y[1.5000366,1.5000488] u[0.00005341,0.00006104] (th 0.0061-0.0070 deg) | float-min 1.000010 at (3.899951,1.500037,u 0.0000610)
+UNCERT 8420 pass 0 box 319485/81920,319486/81920,122880/81920,122881/81920,3/131072,4/131072 | x[3.8999634,3.8999756] y[1.5000000,1.5000122] u[0.00002289,0.00003052] (th 0.0026-0.0035 deg) | float-min 1.000005 at (3.899976,1.500012,u 0.0000305)
+UNCERT 8420 pass 0 box 319485/81920,319486/81920,122881/81920,122882/81920,3/131072,4/131072 | x[3.8999634,3.8999756] y[1.5000122,1.5000244] u[0.00002289,0.00003052] (th 0.0026-0.0035 deg) | float-min 1.000005 at (3.899976,1.500012,u 0.0000305)
+UNCERT 8420 pass 0 box 319486/81920,319487/81920,122880/81920,122881/81920,1/131072,2/131072 | x[3.8999756,3.8999878] y[1.5000000,1.5000122] u[0.00000763,0.00001526] (th 0.0009-0.0017 deg) | float-min 1.000002 at (3.899988,1.500006,u 0.0000153)
+UNCERT 8420 pass 0 box 319487/81920,319488/81920,122880/81920,122881/81920,0/131072,1/131072 | x[3.8999878,3.9000000] y[1.5000000,1.5000122] u[0.00000000,0.00000763] (th 0.0000-0.0009 deg) | float-min 1.000067 at (3.899996,1.500003,u 0.0000052)
+UNCERT 8420 pass 0 box 319487/81920,319488/81920,122880/81920,122881/81920,1/131072,2/131072 | x[3.8999878,3.9000000] y[1.5000000,1.5000122] u[0.00000763,0.00001526] (th 0.0009-0.0017 deg) | float-min 1.000002 at (3.899988,1.500006,u 0.0000153)
+UNCERT 8420 pass 0 box 319486/81920,319487/81920,122880/81920,122881/81920,2/131072,3/131072 | x[3.8999756,3.8999878] y[1.5000000,1.5000122] u[0.00001526,0.00002289] (th 0.0017-0.0026 deg) | float-min 1.000002 at (3.899988,1.500006,u 0.0000153)
+UNCERT 8420 pass 0 box 319486/81920,319487/81920,122880/81920,122881/81920,3/131072,4/131072 | x[3.8999756,3.8999878] y[1.5000000,1.5000122] u[0.00002289,0.00003052] (th 0.0026-0.0035 deg) | float-min 1.000003 at (3.899982,1.500012,u 0.0000229)
+UNCERT 8420 pass 0 box 319486/81920,319487/81920,122881/81920,122882/81920,2/131072,3/131072 | x[3.8999756,3.8999878] y[1.5000122,1.5000244] u[0.00001526,0.00002289] (th 0.0017-0.0026 deg) | float-min 1.000003 at (3.899982,1.500012,u 0.0000229)
+UNCERT 8420 pass 0 box 319486/81920,319487/81920,122881/81920,122882/81920,3/131072,4/131072 | x[3.8999756,3.8999878] y[1.5000122,1.5000244] u[0.00002289,0.00003052] (th 0.0026-0.0035 deg) | float-min 1.000003 at (3.899982,1.500012,u 0.0000229)
+UNCERT 8420 pass 0 box 319487/81920,319488/81920,122880/81920,122881/81920,2/131072,3/131072 | x[3.8999878,3.9000000] y[1.5000000,1.5000122] u[0.00001526,0.00002289] (th 0.0017-0.0026 deg) | float-min 1.000002 at (3.899988,1.500006,u 0.0000153)
+UNCERT 8420 pass 0 box 319487/81920,319488/81920,122881/81920,122882/81920,2/131072,3/131072 | x[3.8999878,3.9000000] y[1.5000122,1.5000244] u[0.00001526,0.00002289] (th 0.0017-0.0026 deg) | float-min 1.000593 at (3.899988,1.500012,u 0.0000153)
+UNCERT 8420 pass 0 box 319484/81920,319485/81920,122881/81920,122882/81920,5/131072,6/131072 | x[3.8999512,3.8999634] y[1.5000122,1.5000244] u[0.00003815,0.00004578] (th 0.0044-0.0052 deg) | float-min 1.000005 at (3.899963,1.500024,u 0.0000458)
+UNCERT 8420 pass 0 box 319485/81920,319486/81920,122880/81920,122881/81920,4/131072,5/131072 | x[3.8999634,3.8999756] y[1.5000000,1.5000122] u[0.00003052,0.00003815] (th 0.0035-0.0044 deg) | float-min 1.000005 at (3.899976,1.500012,u 0.0000305)
+UNCERT 8420 pass 0 box 319485/81920,319486/81920,122881/81920,122882/81920,4/131072,5/131072 | x[3.8999634,3.8999756] y[1.5000122,1.5000244] u[0.00003052,0.00003815] (th 0.0035-0.0044 deg) | float-min 1.000005 at (3.899976,1.500012,u 0.0000305)
+UNCERT 8420 pass 0 box 319485/81920,319486/81920,122881/81920,122882/81920,5/131072,6/131072 | x[3.8999634,3.8999756] y[1.5000122,1.5000244] u[0.00003815,0.00004578] (th 0.0044-0.0052 deg) | float-min 1.000005 at (3.899969,1.500018,u 0.0000381)
+UNCERT 8420 pass 0 box 319484/81920,319485/81920,122881/81920,122882/81920,6/131072,7/131072 | x[3.8999512,3.8999634] y[1.5000122,1.5000244] u[0.00004578,0.00005341] (th 0.0052-0.0061 deg) | float-min 1.000005 at (3.899963,1.500024,u 0.0000458)
+UNCERT 8420 pass 0 box 319484/81920,319485/81920,122881/81920,122882/81920,7/131072,8/131072 | x[3.8999512,3.8999634] y[1.5000122,1.5000244] u[0.00005341,0.00006104] (th 0.0061-0.0070 deg) | float-min 1.000007 at (3.899957,1.500024,u 0.0000534)
+UNCERT 8420 pass 0 box 319485/81920,319486/81920,122881/81920,122882/81920,6/131072,7/131072 | x[3.8999634,3.8999756] y[1.5000122,1.5000244] u[0.00004578,0.00005341] (th 0.0052-0.0061 deg) | float-min 1.000005 at (3.899963,1.500024,u 0.0000458)
+UNCERT 8420 pass 0 box 319484/81920,319485/81920,122882/81920,122883/81920,5/131072,6/131072 | x[3.8999512,3.8999634] y[1.5000244,1.5000366] u[0.00003815,0.00004578] (th 0.0044-0.0052 deg) | float-min 1.000005 at (3.899963,1.500024,u 0.0000458)
+UNCERT 8420 pass 0 box 319485/81920,319486/81920,122882/81920,122883/81920,5/131072,6/131072 | x[3.8999634,3.8999756] y[1.5000244,1.5000366] u[0.00003815,0.00004578] (th 0.0044-0.0052 deg) | float-min 1.000005 at (3.899963,1.500024,u 0.0000458)
+UNCERT 8420 pass 0 box 319484/81920,319485/81920,122882/81920,122883/81920,6/131072,7/131072 | x[3.8999512,3.8999634] y[1.5000244,1.5000366] u[0.00004578,0.00005341] (th 0.0052-0.0061 deg) | float-min 1.000005 at (3.899963,1.500024,u 0.0000458)
+UNCERT 8420 pass 0 box 319484/81920,319485/81920,122882/81920,122883/81920,7/131072,8/131072 | x[3.8999512,3.8999634] y[1.5000244,1.5000366] u[0.00005341,0.00006104] (th 0.0061-0.0070 deg) | float-min 1.000006 at (3.899957,1.500031,u 0.0000534)
+UNCERT 8420 pass 0 box 319484/81920,319485/81920,122883/81920,122884/81920,7/131072,8/131072 | x[3.8999512,3.8999634] y[1.5000366,1.5000488] u[0.00005341,0.00006104] (th 0.0061-0.0070 deg) | float-min 1.000010 at (3.899951,1.500037,u 0.0000610)
+UNCERT 8420 pass 0 box 319485/81920,319486/81920,122882/81920,122883/81920,6/131072,7/131072 | x[3.8999634,3.8999756] y[1.5000244,1.5000366] u[0.00004578,0.00005341] (th 0.0052-0.0061 deg) | float-min 1.000005 at (3.899963,1.500024,u 0.0000458)
+UNCERT 8420 pass 0 box 319486/81920,319487/81920,122880/81920,122881/81920,4/131072,5/131072 | x[3.8999756,3.8999878] y[1.5000000,1.5000122] u[0.00003052,0.00003815] (th 0.0035-0.0044 deg) | float-min 1.000005 at (3.899976,1.500012,u 0.0000305)
+UNCERT 8420 pass 0 box 319486/81920,319487/81920,122881/81920,122882/81920,4/131072,5/131072 | x[3.8999756,3.8999878] y[1.5000122,1.5000244] u[0.00003052,0.00003815] (th 0.0035-0.0044 deg) | float-min 1.000005 at (3.899976,1.500012,u 0.0000305)
+UNCERT 8420 pass 0 box 319481/81920,319482/81920,122882/81920,122883/81920,11/131072,12/131072 | x[3.8999146,3.8999268] y[1.5000244,1.5000366] u[0.00008392,0.00009155] (th 0.0096-0.0105 deg) | float-min 1.000014 at (3.899927,1.500037,u 0.0000916)
+UNCERT 8420 pass 0 box 319481/81920,319482/81920,122883/81920,122884/81920,11/131072,12/131072 | x[3.8999146,3.8999268] y[1.5000366,1.5000488] u[0.00008392,0.00009155] (th 0.0096-0.0105 deg) | float-min 1.000011 at (3.899927,1.500049,u 0.0000916)
+UNCERT 8420 pass 0 box 319483/81920,319484/81920,122881/81920,122882/81920,8/131072,9/131072 | x[3.8999390,3.8999512] y[1.5000122,1.5000244] u[0.00006104,0.00006866] (th 0.0070-0.0079 deg) | float-min 1.000009 at (3.899951,1.500024,u 0.0000610)
+UNCERT 8420 pass 0 box 319482/81920,319483/81920,122882/81920,122883/81920,9/131072,10/131072 | x[3.8999268,3.8999390] y[1.5000244,1.5000366] u[0.00006866,0.00007629] (th 0.0079-0.0087 deg) | float-min 1.000010 at (3.899939,1.500037,u 0.0000763)
+UNCERT 8420 pass 0 box 319482/81920,319483/81920,122883/81920,122884/81920,9/131072,10/131072 | x[3.8999268,3.8999390] y[1.5000366,1.5000488] u[0.00006866,0.00007629] (th 0.0079-0.0087 deg) | float-min 1.000008 at (3.899939,1.500043,u 0.0000763)
+UNCERT 8420 pass 0 box 319483/81920,319484/81920,122882/81920,122883/81920,8/131072,9/131072 | x[3.8999390,3.8999512] y[1.5000244,1.5000366] u[0.00006104,0.00006866] (th 0.0070-0.0079 deg) | float-min 1.000007 at (3.899949,1.500025,u 0.0000637)
+UNCERT 8420 pass 0 box 319483/81920,319484/81920,122882/81920,122883/81920,9/131072,10/131072 | x[3.8999390,3.8999512] y[1.5000244,1.5000366] u[0.00006866,0.00007629] (th 0.0079-0.0087 deg) | float-min 1.000008 at (3.899945,1.500037,u 0.0000687)
+UNCERT 8420 pass 0 box 319483/81920,319484/81920,122883/81920,122884/81920,8/131072,9/131072 | x[3.8999390,3.8999512] y[1.5000366,1.5000488] u[0.00006104,0.00006866] (th 0.0070-0.0079 deg) | float-min 1.000007 at (3.899949,1.500038,u 0.0000637)
+ROOT 8420 pass 0 root 38/10,39/10,15/10,16/10,0/8,1/8 boxes 115681 cert 57698 empty 0 uncert 143 maxdepth 40 capped 0 ms 131257
+ROOT 8421 pass 0 root 38/10,39/10,15/10,16/10,1/8,2/8 boxes 69485 cert 34743 empty 0 uncert 0 maxdepth 29 capped 0 ms 4743
+ROOT 8422 pass 0 root 38/10,39/10,15/10,16/10,2/8,3/8 boxes 2129 cert 1065 empty 0 uncert 0 maxdepth 15 capped 0 ms 148
+ROOT 8423 pass 0 root 38/10,39/10,15/10,16/10,3/8,4/8 boxes 1029 cert 515 empty 0 uncert 0 maxdepth 12 capped 0 ms 74
+ROOT 8424 pass 0 root 38/10,39/10,16/10,17/10,0/8,1/8 boxes 107 cert 54 empty 0 uncert 0 maxdepth 11 capped 0 ms 13
+ROOT 8425 pass 0 root 38/10,39/10,16/10,17/10,1/8,2/8 boxes 505 cert 253 empty 0 uncert 0 maxdepth 11 capped 0 ms 35
+ROOT 8426 pass 0 root 38/10,39/10,16/10,17/10,2/8,3/8 boxes 241 cert 121 empty 0 uncert 0 maxdepth 9 capped 0 ms 17
+ROOT 8427 pass 0 root 38/10,39/10,16/10,17/10,3/8,4/8 boxes 337 cert 169 empty 0 uncert 0 maxdepth 9 capped 0 ms 24
+ROOT 8428 pass 0 root 38/10,39/10,17/10,18/10,0/8,1/8 boxes 35 cert 18 empty 0 uncert 0 maxdepth 6 capped 0 ms 10
+ROOT 8429 pass 0 root 38/10,39/10,17/10,18/10,1/8,2/8 boxes 25 cert 13 empty 0 uncert 0 maxdepth 5 capped 0 ms 1
+ROOT 8430 pass 0 root 38/10,39/10,17/10,18/10,2/8,3/8 boxes 49 cert 25 empty 0 uncert 0 maxdepth 6 capped 0 ms 3
+ROOT 8431 pass 0 root 38/10,39/10,17/10,18/10,3/8,4/8 boxes 37 cert 19 empty 0 uncert 0 maxdepth 6 capped 0 ms 2
+ROOT 8432 pass 0 root 38/10,39/10,18/10,19/10,0/8,1/8 boxes 49 cert 25 empty 0 uncert 0 maxdepth 6 capped 0 ms 781
+ROOT 8433 pass 0 root 38/10,39/10,18/10,19/10,1/8,2/8 boxes 31 cert 16 empty 0 uncert 0 maxdepth 5 capped 0 ms 2
+ROOT 8434 pass 0 root 38/10,39/10,18/10,19/10,2/8,3/8 boxes 21 cert 11 empty 0 uncert 0 maxdepth 4 capped 0 ms 1
+ROOT 8435 pass 0 root 38/10,39/10,18/10,19/10,3/8,4/8 boxes 37 cert 19 empty 0 uncert 0 maxdepth 5 capped 0 ms 2
+ROOT 8436 pass 0 root 38/10,39/10,19/10,20/10,0/8,1/8 boxes 31 cert 16 empty 0 uncert 0 maxdepth 5 capped 0 ms 12
+ROOT 8437 pass 0 root 38/10,39/10,19/10,20/10,1/8,2/8 boxes 59 cert 30 empty 0 uncert 0 maxdepth 6 capped 0 ms 4
+ROOT 8438 pass 0 root 38/10,39/10,19/10,20/10,2/8,3/8 boxes 23 cert 12 empty 0 uncert 0 maxdepth 4 capped 0 ms 1
+ROOT 8439 pass 0 root 38/10,39/10,19/10,20/10,3/8,4/8 boxes 21 cert 11 empty 0 uncert 0 maxdepth 4 capped 0 ms 1
+ROOT 8440 pass 0 root 38/10,39/10,20/10,21/10,0/8,1/8 boxes 39 cert 20 empty 0 uncert 0 maxdepth 6 capped 0 ms 313
+ROOT 8441 pass 0 root 38/10,39/10,20/10,21/10,1/8,2/8 boxes 55 cert 28 empty 0 uncert 0 maxdepth 5 capped 0 ms 4
+ROOT 8442 pass 0 root 38/10,39/10,20/10,21/10,2/8,3/8 boxes 37 cert 19 empty 0 uncert 0 maxdepth 5 capped 0 ms 2
+ROOT 8443 pass 0 root 38/10,39/10,20/10,21/10,3/8,4/8 boxes 35 cert 18 empty 0 uncert 0 maxdepth 5 capped 0 ms 2
+ROOT 8444 pass 0 root 38/10,39/10,21/10,22/10,0/8,1/8 boxes 25 cert 13 empty 0 uncert 0 maxdepth 5 capped 0 ms 11
+ROOT 8445 pass 0 root 38/10,39/10,21/10,22/10,1/8,2/8 boxes 47 cert 24 empty 0 uncert 0 maxdepth 5 capped 0 ms 3
+ROOT 8446 pass 0 root 38/10,39/10,21/10,22/10,2/8,3/8 boxes 107 cert 54 empty 0 uncert 0 maxdepth 8 capped 0 ms 7
+ROOT 8447 pass 0 root 38/10,39/10,21/10,22/10,3/8,4/8 boxes 247 cert 124 empty 0 uncert 0 maxdepth 9 capped 0 ms 17
+ROOT 8448 pass 0 root 38/10,39/10,22/10,23/10,0/8,1/8 boxes 21 cert 11 empty 0 uncert 0 maxdepth 5 capped 0 ms 11
+ROOT 8449 pass 0 root 38/10,39/10,22/10,23/10,1/8,2/8 boxes 141 cert 71 empty 0 uncert 0 maxdepth 9 capped 0 ms 10
+ROOT 8450 pass 0 root 38/10,39/10,22/10,23/10,2/8,3/8 boxes 2047 cert 1024 empty 0 uncert 0 maxdepth 16 capped 0 ms 143
+ROOT 8451 pass 0 root 38/10,39/10,22/10,23/10,3/8,4/8 boxes 10475 cert 5238 empty 0 uncert 0 maxdepth 21 capped 0 ms 725
+ROOT 8452 pass 0 root 38/10,39/10,23/10,24/10,0/8,1/8 boxes 179 cert 90 empty 0 uncert 0 maxdepth 11 capped 0 ms 1510
+ROOT 8453 pass 0 root 38/10,39/10,23/10,24/10,1/8,2/8 boxes 5623 cert 2812 empty 0 uncert 0 maxdepth 18 capped 0 ms 388
+ROOT 8454 pass 0 root 38/10,39/10,23/10,24/10,2/8,3/8 boxes 77249 cert 38625 empty 0 uncert 0 maxdepth 24 capped 0 ms 5356
+ROOT 8455 pass 0 root 38/10,39/10,23/10,24/10,3/8,4/8 boxes 405593 cert 202797 empty 0 uncert 0 maxdepth 27 capped 0 ms 28166
+ROOT 8456 pass 0 root 38/10,39/10,24/10,25/10,0/8,1/8 boxes 205627 cert 102814 empty 0 uncert 0 maxdepth 26 capped 0 ms 42965
+ROOT 8457 pass 0 root 38/10,39/10,24/10,25/10,1/8,2/8 boxes 292485 cert 146243 empty 0 uncert 0 maxdepth 26 capped 0 ms 20203
+ROOT 8458 pass 0 root 38/10,39/10,24/10,25/10,2/8,3/8 boxes 59039 cert 29520 empty 0 uncert 0 maxdepth 23 capped 0 ms 4106
+ROOT 8459 pass 0 root 38/10,39/10,24/10,25/10,3/8,4/8 boxes 42301 cert 21151 empty 0 uncert 0 maxdepth 23 capped 0 ms 3065
+ROOT 8460 pass 0 root 38/10,39/10,25/10,26/10,0/8,1/8 boxes 28223 cert 14112 empty 0 uncert 0 maxdepth 22 capped 0 ms 60691
+ROOT 8461 pass 0 root 38/10,39/10,25/10,26/10,1/8,2/8 boxes 12081 cert 6041 empty 0 uncert 0 maxdepth 20 capped 0 ms 854
+ROOT 8462 pass 0 root 38/10,39/10,25/10,26/10,2/8,3/8 boxes 6163 cert 3082 empty 0 uncert 0 maxdepth 15 capped 0 ms 441
+ROOT 8463 pass 0 root 38/10,39/10,25/10,26/10,3/8,4/8 boxes 201985 cert 100993 empty 0 uncert 0 maxdepth 27 capped 0 ms 14009
+ROOT 8464 pass 0 root 38/10,39/10,26/10,27/10,0/8,1/8 boxes 63 cert 32 empty 0 uncert 0 maxdepth 9 capped 0 ms 13
+ROOT 8465 pass 0 root 38/10,39/10,26/10,27/10,1/8,2/8 boxes 221 cert 111 empty 0 uncert 0 maxdepth 9 capped 0 ms 16
+ROOT 8466 pass 0 root 38/10,39/10,26/10,27/10,2/8,3/8 boxes 1161 cert 581 empty 0 uncert 0 maxdepth 12 capped 0 ms 82
+ROOT 8467 pass 0 root 38/10,39/10,26/10,27/10,3/8,4/8 boxes 5713 cert 2857 empty 0 uncert 0 maxdepth 14 capped 0 ms 399
+ROOT 8468 pass 0 root 38/10,39/10,27/10,28/10,0/8,1/8 boxes 31 cert 16 empty 0 uncert 0 maxdepth 5 capped 0 ms 12
+ROOT 8469 pass 0 root 38/10,39/10,27/10,28/10,1/8,2/8 boxes 35 cert 18 empty 0 uncert 0 maxdepth 5 capped 0 ms 2
+ROOT 8470 pass 0 root 38/10,39/10,27/10,28/10,2/8,3/8 boxes 109 cert 55 empty 0 uncert 0 maxdepth 11 capped 0 ms 7
+ROOT 8471 pass 0 root 38/10,39/10,27/10,28/10,3/8,4/8 boxes 271 cert 136 empty 0 uncert 0 maxdepth 11 capped 0 ms 19
+ROOT 8472 pass 0 root 38/10,39/10,28/10,29/10,0/8,1/8 boxes 31 cert 16 empty 0 uncert 0 maxdepth 5 capped 0 ms 12
+ROOT 8473 pass 0 root 38/10,39/10,28/10,29/10,1/8,2/8 boxes 37 cert 19 empty 0 uncert 0 maxdepth 5 capped 0 ms 2
+ROOT 8474 pass 0 root 38/10,39/10,28/10,29/10,2/8,3/8 boxes 27 cert 14 empty 0 uncert 0 maxdepth 5 capped 0 ms 2
+ROOT 8475 pass 0 root 38/10,39/10,28/10,29/10,3/8,4/8 boxes 57 cert 29 empty 0 uncert 0 maxdepth 6 capped 0 ms 4
+ROOT 8476 pass 0 root 38/10,39/10,29/10,30/10,0/8,1/8 boxes 55 cert 28 empty 0 uncert 0 maxdepth 6 capped 0 ms 14
+ROOT 8477 pass 0 root 38/10,39/10,29/10,30/10,1/8,2/8 boxes 77 cert 39 empty 0 uncert 0 maxdepth 6 capped 0 ms 5
+ROOT 8478 pass 0 root 38/10,39/10,29/10,30/10,2/8,3/8 boxes 31 cert 16 empty 0 uncert 0 maxdepth 5 capped 0 ms 2
+ROOT 8479 pass 0 root 38/10,39/10,29/10,30/10,3/8,4/8 boxes 53 cert 27 empty 0 uncert 0 maxdepth 5 capped 0 ms 3
+ROOT 8480 pass 0 root 38/10,39/10,30/10,31/10,0/8,1/8 boxes 45 cert 23 empty 0 uncert 0 maxdepth 6 capped 0 ms 13
+ROOT 8481 pass 0 root 38/10,39/10,30/10,31/10,1/8,2/8 boxes 97 cert 49 empty 0 uncert 0 maxdepth 6 capped 0 ms 7
+ROOT 8482 pass 0 root 38/10,39/10,30/10,31/10,2/8,3/8 boxes 59 cert 30 empty 0 uncert 0 maxdepth 6 capped 0 ms 4
+ROOT 8483 pass 0 root 38/10,39/10,30/10,31/10,3/8,4/8 boxes 61 cert 31 empty 0 uncert 0 maxdepth 6 capped 0 ms 4
+ROOT 8484 pass 0 root 38/10,39/10,31/10,32/10,0/8,1/8 boxes 49 cert 25 empty 0 uncert 0 maxdepth 6 capped 0 ms 13
+ROOT 8485 pass 0 root 38/10,39/10,31/10,32/10,1/8,2/8 boxes 113 cert 57 empty 0 uncert 0 maxdepth 7 capped 0 ms 8
+ROOT 8486 pass 0 root 38/10,39/10,31/10,32/10,2/8,3/8 boxes 289 cert 145 empty 0 uncert 0 maxdepth 10 capped 0 ms 20
+ROOT 8487 pass 0 root 38/10,39/10,31/10,32/10,3/8,4/8 boxes 221 cert 111 empty 0 uncert 0 maxdepth 10 capped 0 ms 16
+ROOT 8488 pass 0 root 38/10,39/10,32/10,33/10,0/8,1/8 boxes 65 cert 33 empty 0 uncert 0 maxdepth 7 capped 0 ms 327
+ROOT 8489 pass 0 root 38/10,39/10,32/10,33/10,1/8,2/8 boxes 1465 cert 733 empty 0 uncert 0 maxdepth 13 capped 0 ms 103
+ROOT 8490 pass 0 root 38/10,39/10,32/10,33/10,2/8,3/8 boxes 28027 cert 14014 empty 0 uncert 0 maxdepth 18 capped 0 ms 1955
+ROOT 8491 pass 0 root 38/10,39/10,32/10,33/10,3/8,4/8 boxes 17713 cert 8857 empty 0 uncert 0 maxdepth 18 capped 0 ms 1240
+ROOT 8492 pass 0 root 38/10,39/10,33/10,34/10,0/8,1/8 boxes 4951 cert 2476 empty 0 uncert 0 maxdepth 16 capped 0 ms 6203
+ROOT 8493 pass 0 root 38/10,39/10,33/10,34/10,1/8,2/8 boxes 57751 cert 28876 empty 0 uncert 0 maxdepth 19 capped 0 ms 4039
+ROOT 8494 pass 0 root 38/10,39/10,33/10,34/10,2/8,3/8 boxes 125477 cert 62739 empty 0 uncert 0 maxdepth 19 capped 0 ms 8917
+ROOT 8495 pass 0 root 38/10,39/10,33/10,34/10,3/8,4/8 boxes 178143 cert 89072 empty 0 uncert 0 maxdepth 20 capped 0 ms 12817
+ROOT 8496 pass 0 root 38/10,39/10,34/10,35/10,0/8,1/8 boxes 268025 cert 134013 empty 0 uncert 0 maxdepth 26 capped 0 ms 63862
+ROOT 8497 pass 0 root 38/10,39/10,34/10,35/10,1/8,2/8 boxes 8664937 cert 4332469 empty 0 uncert 0 maxdepth 31 capped 0 ms 598329
+ROOT 8498 pass 0 root 38/10,39/10,34/10,35/10,2/8,3/8 boxes 4162271 cert 2081136 empty 0 uncert 0 maxdepth 31 capped 0 ms 288070
+ROOT 8499 pass 0 root 38/10,39/10,34/10,35/10,3/8,4/8 boxes 101533 cert 50767 empty 0 uncert 0 maxdepth 20 capped 0 ms 7185
+ROOT 8500 pass 0 root 38/10,39/10,35/10,36/10,0/8,1/8 boxes 150725 cert 75363 empty 0 uncert 0 maxdepth 27 capped 0 ms 51700
+ROOT 8501 pass 0 root 38/10,39/10,35/10,36/10,1/8,2/8 boxes 239781 cert 119891 empty 0 uncert 0 maxdepth 26 capped 0 ms 16449
+ROOT 8502 pass 0 root 38/10,39/10,35/10,36/10,2/8,3/8 boxes 476899 cert 238450 empty 0 uncert 0 maxdepth 29 capped 0 ms 33050
+ROOT 8503 pass 0 root 38/10,39/10,35/10,36/10,3/8,4/8 boxes 26719 cert 13360 empty 0 uncert 0 maxdepth 16 capped 0 ms 1899
+ROOT 8504 pass 0 root 38/10,39/10,36/10,37/10,0/8,1/8 boxes 1053 cert 527 empty 0 uncert 0 maxdepth 13 capped 0 ms 1201
+ROOT 8505 pass 0 root 38/10,39/10,36/10,37/10,1/8,2/8 boxes 5433 cert 2717 empty 0 uncert 0 maxdepth 13 capped 0 ms 378
+ROOT 8506 pass 0 root 38/10,39/10,36/10,37/10,2/8,3/8 boxes 15205 cert 7603 empty 0 uncert 0 maxdepth 16 capped 0 ms 1058
+ROOT 8507 pass 0 root 38/10,39/10,36/10,37/10,3/8,4/8 boxes 16223 cert 8112 empty 0 uncert 0 maxdepth 16 capped 0 ms 1199
+ROOT 8508 pass 0 root 38/10,39/10,37/10,38/10,0/8,1/8 boxes 1151 cert 576 empty 0 uncert 0 maxdepth 11 capped 0 ms 3013
+ROOT 8509 pass 0 root 38/10,39/10,37/10,38/10,1/8,2/8 boxes 1817 cert 909 empty 0 uncert 0 maxdepth 12 capped 0 ms 127
+ROOT 8510 pass 0 root 38/10,39/10,37/10,38/10,2/8,3/8 boxes 6207 cert 3104 empty 0 uncert 0 maxdepth 16 capped 0 ms 435
+ROOT 8511 pass 0 root 38/10,39/10,37/10,38/10,3/8,4/8 boxes 8137 cert 4069 empty 0 uncert 0 maxdepth 16 capped 0 ms 604
+ROOT 8512 pass 0 root 38/10,39/10,38/10,39/10,0/8,1/8 boxes 1855 cert 928 empty 0 uncert 0 maxdepth 12 capped 0 ms 6738
+ROOT 8513 pass 0 root 38/10,39/10,38/10,39/10,1/8,2/8 boxes 1929 cert 965 empty 0 uncert 0 maxdepth 11 capped 0 ms 136
+ROOT 8514 pass 0 root 38/10,39/10,38/10,39/10,2/8,3/8 boxes 1411 cert 706 empty 0 uncert 0 maxdepth 10 capped 0 ms 100
+ROOT 8515 pass 0 root 38/10,39/10,38/10,39/10,3/8,4/8 boxes 1921 cert 961 empty 0 uncert 0 maxdepth 11 capped 0 ms 136
+ROOT 8516 pass 0 root 38/10,39/10,39/10,40/10,0/8,1/8 boxes 1535 cert 768 empty 0 uncert 0 maxdepth 12 capped 0 ms 4413
+ROOT 8517 pass 0 root 38/10,39/10,39/10,40/10,1/8,2/8 boxes 2085 cert 1043 empty 0 uncert 0 maxdepth 11 capped 0 ms 147
+ROOT 8518 pass 0 root 38/10,39/10,39/10,40/10,2/8,3/8 boxes 1591 cert 796 empty 0 uncert 0 maxdepth 10 capped 0 ms 122
+ROOT 8519 pass 0 root 38/10,39/10,39/10,40/10,3/8,4/8 boxes 1309 cert 655 empty 0 uncert 0 maxdepth 10 capped 0 ms 93
+ROOT 8520 pass 0 root 38/10,39/10,40/10,41/10,0/8,1/8 boxes 1199 cert 600 empty 0 uncert 0 maxdepth 11 capped 0 ms 3012
+ROOT 8521 pass 0 root 38/10,39/10,40/10,41/10,1/8,2/8 boxes 2055 cert 1028 empty 0 uncert 0 maxdepth 11 capped 0 ms 144
+ROOT 8522 pass 0 root 38/10,39/10,40/10,41/10,2/8,3/8 boxes 1923 cert 962 empty 0 uncert 0 maxdepth 10 capped 0 ms 136
+ROOT 8523 pass 0 root 38/10,39/10,40/10,41/10,3/8,4/8 boxes 683 cert 342 empty 0 uncert 0 maxdepth 10 capped 0 ms 48
+ROOT 8524 pass 0 root 38/10,39/10,41/10,42/10,0/8,1/8 boxes 1127 cert 564 empty 0 uncert 0 maxdepth 11 capped 0 ms 3676
+ROOT 8525 pass 0 root 38/10,39/10,41/10,42/10,1/8,2/8 boxes 2011 cert 1006 empty 0 uncert 0 maxdepth 10 capped 0 ms 140
+ROOT 8526 pass 0 root 38/10,39/10,41/10,42/10,2/8,3/8 boxes 1999 cert 1000 empty 0 uncert 0 maxdepth 10 capped 0 ms 144
+ROOT 8527 pass 0 root 38/10,39/10,41/10,42/10,3/8,4/8 boxes 821 cert 411 empty 0 uncert 0 maxdepth 10 capped 0 ms 59
+ROOT 8528 pass 0 root 38/10,39/10,42/10,43/10,0/8,1/8 boxes 1041 cert 521 empty 0 uncert 0 maxdepth 11 capped 0 ms 3334
+ROOT 8529 pass 0 root 38/10,39/10,42/10,43/10,1/8,2/8 boxes 1927 cert 964 empty 0 uncert 0 maxdepth 11 capped 0 ms 149
+ROOT 8530 pass 0 root 38/10,39/10,42/10,43/10,2/8,3/8 boxes 2669 cert 1335 empty 0 uncert 0 maxdepth 13 capped 0 ms 191
+ROOT 8531 pass 0 root 38/10,39/10,42/10,43/10,3/8,4/8 boxes 1109 cert 555 empty 0 uncert 0 maxdepth 13 capped 0 ms 80
+ROOT 8532 pass 0 root 38/10,39/10,43/10,44/10,0/8,1/8 boxes 217 cert 109 empty 0 uncert 0 maxdepth 10 capped 0 ms 775
+ROOT 8533 pass 0 root 38/10,39/10,43/10,44/10,1/8,2/8 boxes 683 cert 342 empty 0 uncert 0 maxdepth 10 capped 0 ms 48
+ROOT 8534 pass 0 root 38/10,39/10,43/10,44/10,2/8,3/8 boxes 1831 cert 916 empty 0 uncert 0 maxdepth 13 capped 0 ms 129
+ROOT 8535 pass 0 root 38/10,39/10,43/10,44/10,3/8,4/8 boxes 2309 cert 1155 empty 0 uncert 0 maxdepth 13 capped 0 ms 171
+ROOT 8536 pass 0 root 38/10,39/10,44/10,45/10,0/8,1/8 boxes 303 cert 152 empty 0 uncert 0 maxdepth 11 capped 0 ms 678
+ROOT 8537 pass 0 root 38/10,39/10,44/10,45/10,1/8,2/8 boxes 1801 cert 901 empty 0 uncert 0 maxdepth 15 capped 0 ms 125
+ROOT 8538 pass 0 root 38/10,39/10,44/10,45/10,2/8,3/8 boxes 2605 cert 1303 empty 0 uncert 0 maxdepth 15 capped 0 ms 183
+ROOT 8539 pass 0 root 38/10,39/10,44/10,45/10,3/8,4/8 boxes 3217 cert 1609 empty 0 uncert 0 maxdepth 13 capped 0 ms 234
+ROOT 8540 pass 0 root 38/10,39/10,45/10,46/10,0/8,1/8 boxes 315 cert 158 empty 0 uncert 0 maxdepth 12 capped 0 ms 729
+ROOT 8541 pass 0 root 38/10,39/10,45/10,46/10,1/8,2/8 boxes 2233 cert 1117 empty 0 uncert 0 maxdepth 15 capped 0 ms 153
+ROOT 8542 pass 0 root 38/10,39/10,45/10,46/10,2/8,3/8 boxes 4375 cert 2188 empty 0 uncert 0 maxdepth 14 capped 0 ms 305
+ROOT 8543 pass 0 root 38/10,39/10,45/10,46/10,3/8,4/8 boxes 2275 cert 1138 empty 0 uncert 0 maxdepth 12 capped 0 ms 165
+ROOT 8544 pass 0 root 38/10,39/10,46/10,47/10,0/8,1/8 boxes 55 cert 28 empty 0 uncert 0 maxdepth 7 capped 0 ms 260
+ROOT 8545 pass 0 root 38/10,39/10,46/10,47/10,1/8,2/8 boxes 205 cert 103 empty 0 uncert 0 maxdepth 8 capped 0 ms 14
+ROOT 8546 pass 0 root 38/10,39/10,46/10,47/10,2/8,3/8 boxes 691 cert 346 empty 0 uncert 0 maxdepth 11 capped 0 ms 48
+ROOT 8547 pass 0 root 38/10,39/10,46/10,47/10,3/8,4/8 boxes 827 cert 414 empty 0 uncert 0 maxdepth 11 capped 0 ms 63
+ROOT 8548 pass 0 root 38/10,39/10,47/10,48/10,0/8,1/8 boxes 45 cert 23 empty 0 uncert 0 maxdepth 5 capped 0 ms 261
+ROOT 8549 pass 0 root 38/10,39/10,47/10,48/10,1/8,2/8 boxes 39 cert 20 empty 0 uncert 0 maxdepth 5 capped 0 ms 2
+ROOT 8550 pass 0 root 38/10,39/10,47/10,48/10,2/8,3/8 boxes 111 cert 56 empty 0 uncert 0 maxdepth 8 capped 0 ms 7
+ROOT 8551 pass 0 root 38/10,39/10,47/10,48/10,3/8,4/8 boxes 155 cert 78 empty 0 uncert 0 maxdepth 8 capped 0 ms 12
+ROOT 8552 pass 0 root 38/10,39/10,48/10,49/10,0/8,1/8 boxes 51 cert 26 empty 0 uncert 0 maxdepth 6 capped 0 ms 289
+ROOT 8553 pass 0 root 38/10,39/10,48/10,49/10,1/8,2/8 boxes 57 cert 29 empty 0 uncert 0 maxdepth 5 capped 0 ms 4
+ROOT 8554 pass 0 root 38/10,39/10,48/10,49/10,2/8,3/8 boxes 51 cert 26 empty 0 uncert 0 maxdepth 5 capped 0 ms 3
+ROOT 8555 pass 0 root 38/10,39/10,48/10,49/10,3/8,4/8 boxes 75 cert 38 empty 0 uncert 0 maxdepth 6 capped 0 ms 6
+ROOT 8556 pass 0 root 38/10,39/10,49/10,50/10,0/8,1/8 boxes 87 cert 44 empty 0 uncert 0 maxdepth 7 capped 0 ms 370
+ROOT 8557 pass 0 root 38/10,39/10,49/10,50/10,1/8,2/8 boxes 97 cert 49 empty 0 uncert 0 maxdepth 7 capped 0 ms 7
+ROOT 8558 pass 0 root 38/10,39/10,49/10,50/10,2/8,3/8 boxes 73 cert 37 empty 0 uncert 0 maxdepth 6 capped 0 ms 5
+ROOT 8559 pass 0 root 38/10,39/10,49/10,50/10,3/8,4/8 boxes 73 cert 37 empty 0 uncert 0 maxdepth 6 capped 0 ms 5
+ROOT 8560 pass 0 root 38/10,39/10,50/10,51/10,0/8,1/8 boxes 121 cert 61 empty 0 uncert 0 maxdepth 8 capped 0 ms 529
+ROOT 8561 pass 0 root 38/10,39/10,50/10,51/10,1/8,2/8 boxes 147 cert 74 empty 0 uncert 0 maxdepth 7 capped 0 ms 10
+ROOT 8562 pass 0 root 38/10,39/10,50/10,51/10,2/8,3/8 boxes 115 cert 58 empty 0 uncert 0 maxdepth 7 capped 0 ms 8
+ROOT 8563 pass 0 root 38/10,39/10,50/10,51/10,3/8,4/8 boxes 63 cert 32 empty 0 uncert 0 maxdepth 5 capped 0 ms 5
+ROOT 8564 pass 0 root 38/10,39/10,51/10,52/10,0/8,1/8 boxes 151 cert 76 empty 0 uncert 0 maxdepth 8 capped 0 ms 699
+ROOT 8565 pass 0 root 38/10,39/10,51/10,52/10,1/8,2/8 boxes 133 cert 67 empty 0 uncert 0 maxdepth 7 capped 0 ms 9
+ROOT 8566 pass 0 root 38/10,39/10,51/10,52/10,2/8,3/8 boxes 115 cert 58 empty 0 uncert 0 maxdepth 6 capped 0 ms 8
+ROOT 8567 pass 0 root 38/10,39/10,51/10,52/10,3/8,4/8 boxes 67 cert 34 empty 0 uncert 0 maxdepth 6 capped 0 ms 5
+ROOT 8568 pass 0 root 38/10,39/10,52/10,53/10,0/8,1/8 boxes 139 cert 70 empty 0 uncert 0 maxdepth 8 capped 0 ms 505
+ROOT 8569 pass 0 root 38/10,39/10,52/10,53/10,1/8,2/8 boxes 155 cert 78 empty 0 uncert 0 maxdepth 8 capped 0 ms 11
+ROOT 8570 pass 0 root 38/10,39/10,52/10,53/10,2/8,3/8 boxes 155 cert 78 empty 0 uncert 0 maxdepth 8 capped 0 ms 11
+ROOT 8571 pass 0 root 38/10,39/10,52/10,53/10,3/8,4/8 boxes 149 cert 75 empty 0 uncert 0 maxdepth 8 capped 0 ms 11
+ROOT 8572 pass 0 root 38/10,39/10,53/10,54/10,0/8,1/8 boxes 171 cert 86 empty 0 uncert 0 maxdepth 8 capped 0 ms 530
+ROOT 8573 pass 0 root 38/10,39/10,53/10,54/10,1/8,2/8 boxes 327 cert 164 empty 0 uncert 0 maxdepth 8 capped 0 ms 23
+ROOT 8574 pass 0 root 38/10,39/10,53/10,54/10,2/8,3/8 boxes 465 cert 233 empty 0 uncert 0 maxdepth 9 capped 0 ms 33
+ROOT 8575 pass 0 root 38/10,39/10,53/10,54/10,3/8,4/8 boxes 953 cert 477 empty 0 uncert 0 maxdepth 11 capped 0 ms 72
+ROOT 8576 pass 0 root 38/10,39/10,54/10,55/10,0/8,1/8 boxes 425 cert 213 empty 0 uncert 0 maxdepth 13 capped 0 ms 769
+ROOT 8577 pass 0 root 38/10,39/10,54/10,55/10,1/8,2/8 boxes 7567 cert 3784 empty 0 uncert 0 maxdepth 20 capped 0 ms 519
+ROOT 8578 pass 0 root 38/10,39/10,54/10,55/10,2/8,3/8 boxes 4345 cert 2173 empty 0 uncert 0 maxdepth 18 capped 0 ms 300
+ROOT 8579 pass 0 root 38/10,39/10,54/10,55/10,3/8,4/8 boxes 2761 cert 1381 empty 0 uncert 0 maxdepth 14 capped 0 ms 202

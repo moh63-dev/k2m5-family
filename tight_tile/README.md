@@ -17,6 +17,7 @@ re-verified exactly).
 | `cov_check.py` | strict job check + exact coverage check → `COVERAGE-OK` |
 | `summarize_tt.py` | job summary |
 | `ctl_rise.py`, `ctl_rise.txt` | the "same limit values, smaller growth" control |
+| `ctl_mutants.py`, `run_controls.sh` | the other two controls (weights × 0.99; line x = 2 lowered by 1%) and a driver for all of them |
 
 Re-run one job: `python3 run_tt.py ../certificate/sol_exact_box11.txt 3.5 -1 line 3.5`
 (env `U0=1/2000` for the larger tilt range; `SKIP=C_u,...` runs a subset and ends `PARTIAL-...`).

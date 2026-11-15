@@ -9,6 +9,7 @@ __pycache__/
 *.out
 !tight_tile/out*/*.out
 !verification/**/*.out
+!verification/logs/**/*.log
 *.toc
 *.fls
 *.fdb_latexmk

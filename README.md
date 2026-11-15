@@ -66,6 +66,10 @@ boxes. `qx2_zm.py` prints `zeromargin.py … DIFFERS FROM PINNED`: our `zeromarg
 in Daniel's repository at the pin; it differs from the older pin inside `zm_mixed.py` only by two added safety
 guards. Everything in `tight_tile/` and `verification/*.py` is ours.
 
+## Citing
+
+See `CITATION.cff`. The archived release is on Zenodo (DOI to be added here once minted); the paper is `paper/k2m5.pdf`.
+
 ## License
 
-Code: MIT. Text and data: CC BY 4.0. (See `LICENSE`.)
+Code: MIT. Text and data: CC BY 4.0. `LICENSE` states both grants and which files each covers.

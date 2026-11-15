@@ -1,3 +1,23 @@
+k2m5-family: licenses
+
+This repository carries two licenses, by kind of file.
+
+1. Code: MIT License (the text is below). This covers the programs and scripts: everything under search/ that we
+   wrote, verification/*.py and verification/*.sh, tight_tile/*.py and tight_tile/*.sh, paper/figures/*.py, and the
+   Lean sources under lean/.
+
+2. Text and data: Creative Commons Attribution 4.0 International (CC BY 4.0),
+   https://creativecommons.org/licenses/by/4.0/legalcode . This covers the paper and the reports (paper/*.tex,
+   paper/*.pdf, tight_tile_report), the documentation (README.md files, docs/), and the data: certificate/,
+   verification/boards, controls, logs and r9632 data, and the tight_tile outputs and cov.tar.xz. Please cite the
+   paper and the archived release (see README.md) when you reuse them.
+
+3. Third-party code: verification/verify.sh downloads, and the patches in search/ and verification/ apply to, code
+   from evand/square-packing (Copyright (c) 2026 Evan Daniel, MIT License). That code is not part of this
+   repository and stays under its own license.
+
+--------------------------------------------------------------------------------------------------------------
+
 MIT License
 
 Copyright (c) 2026 Mohsen Khalili and Sara Gharabaghi
@@ -14,6 +34,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-search/cover_loop.py and search/tilesep.py import, and verification/verify.sh downloads, code from
-evand/square-packing (Copyright (c) 2026 Evan Daniel, MIT License).

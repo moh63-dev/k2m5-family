@@ -1,0 +1,6 @@
+Python 3.13.0
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import numpy, scipy; print('numpy', numpy.__version__, 'scipy', scipy.__version__)
+    ^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'scipy'
