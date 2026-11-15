@@ -68,7 +68,7 @@ guards. Everything in `tight_tile/` and `verification/*.py` is ours.
 
 ## Citing
 
-See `CITATION.cff`. The archived release is on Zenodo (DOI to be added here once minted); the paper is `paper/k2m5.pdf`.
+See `CITATION.cff`. The paper is archived at [10.5281/zenodo.24237740](https://doi.org/10.5281/zenodo.24237740) (also `paper/k2m5.pdf`). The archived release of this repository is on Zenodo too (software DOI to be added here once minted).
 
 ## License
 

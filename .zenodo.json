@@ -29,6 +29,11 @@
       "relation": "isSupplementTo",
       "identifier": "https://github.com/moh63-dev/k2m5-family",
       "scheme": "url"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "10.5281/zenodo.24237740",
+      "resource_type": "publication"
     }
   ]
 }
